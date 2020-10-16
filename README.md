@@ -4,7 +4,11 @@ The final aim of project management is to make the project better. From my exper
 
 To make the project easier to control, I summarise some necessary steps for finishing project.
 
+
+
+
 ***Everyday Work Report***
+
 
 This is the most important thing, which will let other know what you have done for every day.
 
