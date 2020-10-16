@@ -18,4 +18,4 @@ Normally, people abandon project because they feel hopless about the process. In
 
 Therefore, everyday work report can help people to build necesaary confidence which is very important.
 
-***Processing Percentage Computing***
+***Computing the Percentage of development process***
