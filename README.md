@@ -19,3 +19,5 @@ Normally, people abandon project because they feel hopless about the process. In
 Therefore, everyday work report can help people to build necesaary confidence which is very important.
 
 ***Computing the Percentage of development process***
+
+In fact, due to many facts, the percentage is not very specific. But the most important reason for this step is to build confidence which is essencial.
