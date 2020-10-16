@@ -21,3 +21,7 @@ Therefore, everyday work report can help people to build necesaary confidence wh
 ***Computing the Percentage of development process***
 
 In fact, due to many facts, the percentage is not very specific. But the most important reason for this step is to build confidence which is essencial.
+
+***Abandon too tough things, keep on development and iteration for the product***
+
+The result maybe seem like a bit ugly, but don't worry. The power of iteration is huge. So a good idea is to keep on changing it until feeling good.
