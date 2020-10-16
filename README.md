@@ -29,3 +29,5 @@ Obviously, we will has some issues on the development. Don's give up. Search Eng
 ***Abandon too tough things, keep on development and iteration for the product***
 
 The result maybe seem like a bit ugly, but don't worry. The power of iteration is huge. So a good idea is to keep on changing it until feeling good.
+
+Don't worry about the tough things. Probably, it can not be solved in this time. However, if the developers focus on this problem, it will be easy in many days.
